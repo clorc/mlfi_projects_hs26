@@ -1,0 +1,4 @@
+,ridge__alpha_range,ridge__alpha,lasso__alpha_range,lasso__alpha,elasticnet__alpha_range,elasticnet__alpha,elasticnet__l1_ratio_range,elasticnet__l1_ratio,svd__n_components_range,svd__n_components
+0,"(0.01,1000.0)",1000.0,"(0.01,1000.0)",0.01,"(0.01,1000.0)",0.01,"(0.0,1.0)",0.0,"(2,206)",104.0
+1,"(0.01,1000.0)",23.2995,"(0.01,1000.0)",0.01,"(0.01,1000.0)",0.0242,"(0.0,1.0)",0.0,"(2,305)",89.0
+2,"(1.0,100.0)",24.4205,"(0.001,0.01)",0.0010,"(1e-05,1.0)",0.0027,"(0.01,1.0)",0.2154,"(50,256)",86.0000
